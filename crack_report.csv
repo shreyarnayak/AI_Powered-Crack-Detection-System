@@ -1,0 +1,115 @@
+Frame,Depth (mm),Seriousness
+1,2.83,Severe (alert)
+2,1.13,Moderate might need monitoring.
+3,0.78,Minor
+4,2.62,Severe (alert)
+5,1.85,Moderate might need monitoring.
+6,1.6,Moderate might need monitoring.
+7,1.82,Moderate might need monitoring.
+8,0.4,Minor
+9,0.95,Minor
+10,1.08,Moderate might need monitoring.
+11,0.61,Minor
+12,1.04,Moderate might need monitoring.
+13,0.87,Minor
+14,0.69,Minor
+15,1.67,Moderate might need monitoring.
+16,0.38,Minor
+17,0.4,Minor
+18,2.37,Severe (alert)
+19,0.5,Minor
+20,2.79,Severe (alert)
+21,0.42,Minor
+22,0.25,Minor
+23,0.87,Minor
+24,0.49,Minor
+25,0.33,Minor
+26,0.48,Minor
+27,0.86,Minor
+28,0.96,Minor
+29,0.47,Minor
+30,0.34,Minor
+31,1.0,Minor
+32,0.9,Minor
+33,2.95,Severe (alert)
+34,2.87,Severe (alert)
+35,0.91,Minor
+36,0.92,Minor
+37,2.88,Severe (alert)
+38,2.43,Severe (alert)
+39,2.65,Severe (alert)
+40,2.97,Severe (alert)
+41,0.99,Minor
+42,1.04,Moderate might need monitoring.
+43,0.62,Minor
+44,0.49,Minor
+45,1.85,Moderate might need monitoring.
+46,2.6,Severe (alert)
+47,2.86,Severe (alert)
+48,0.49,Minor
+49,0.98,Minor
+50,2.12,Severe (alert)
+51,0.48,Minor
+52,0.64,Minor
+53,2.67,Severe (alert)
+54,2.84,Severe (alert)
+55,0.46,Minor
+56,1.02,Moderate might need monitoring.
+57,0.49,Minor
+58,1.29,Moderate might need monitoring.
+59,0.29,Minor
+60,0.84,Minor
+61,0.48,Minor
+62,1.17,Moderate might need monitoring.
+63,0.78,Minor
+64,0.77,Minor
+65,0.92,Minor
+66,0.45,Minor
+67,2.55,Severe (alert)
+68,1.49,Moderate might need monitoring.
+69,0.6,Minor
+70,2.52,Severe (alert)
+71,2.53,Severe (alert)
+72,2.41,Severe (alert)
+73,1.05,Moderate might need monitoring.
+74,0.52,Minor
+75,4.35,Severe (alert)
+76,1.66,Moderate might need monitoring.
+77,0.7,Minor
+78,0.11,Minor
+79,3.91,Severe (alert)
+80,0.46,Minor
+81,0.64,Minor
+82,0.36,Minor
+83,0.47,Minor
+84,2.58,Severe (alert)
+85,0.93,Minor
+86,1.71,Moderate might need monitoring.
+87,0.58,Minor
+88,0.43,Minor
+89,0.37,Minor
+90,0.93,Minor
+91,0.84,Minor
+92,0.96,Minor
+93,1.04,Moderate might need monitoring.
+94,0.47,Minor
+95,0.39,Minor
+96,0.64,Minor
+97,0.87,Minor
+98,0.8,Minor
+99,0.92,Minor
+100,0.81,Minor
+101,0.2,Minor
+102,0.62,Minor
+103,0.73,Minor
+104,0.6,Minor
+105,0.6,Minor
+106,1.46,Moderate might need monitoring.
+107,0.59,Minor
+108,0.61,Minor
+109,0.98,Minor
+
+--- Summary ---
+Max Depth (mm): 4.35
+Average Depth (mm): 1.19
+Most Serious Crack: Severe (alert)
